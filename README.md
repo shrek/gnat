@@ -81,7 +81,8 @@ c:\Apps\libjingle-0.4.0\ -- contains the libjingle sources etc
 c:\Apps\MySolutions\gnat  -- contains gnat sources
 
 *Files:*
- 
+
+<code> 
  \gnat\ReadMe.txt
  \gnat\gnat.sln
  \gnat\gnat.vcproj
@@ -95,9 +96,11 @@ c:\Apps\MySolutions\gnat  -- contains gnat sources
               \PipeClient.h
               \PipeEp.cpp
               \PipeEp.h
+</code>
 
 Also included are following sources from the login application
 
+<code>
 jingleinfotask.cc
 presenceouttask.cc
 presencepushtask.cc
@@ -105,3 +108,4 @@ xmppauth.cc
 xmpppump.cc
 xmppsocket.cc
 xmppthread.cc
+</code>
